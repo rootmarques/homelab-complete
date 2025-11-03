@@ -1,4 +1,4 @@
-# 🏠 Homelab Complete
+# 🏠 Homelab Completo
 <img width="1787" height="842" alt="Homelab_Docker" src="https://github.com/user-attachments/assets/85c5d928-b7f5-4ac2-8492-878215dc014c" />
 
 Stack completa de monitoramento para homelab com Prometheus, Grafana, InfluxDB e mais.
