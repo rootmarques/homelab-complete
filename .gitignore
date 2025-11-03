@@ -1,0 +1,13 @@
+# Dados sensíveis
+CREDENTIALS.txt
+.homelab.conf
+*/.env
+
+# Dados dos serviços
+*/data/
+grafana/data/
+influxdb/data/
+prometheus/data/
+
+# Logs
+*.log
